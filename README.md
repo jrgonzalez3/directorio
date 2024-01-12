@@ -67,13 +67,14 @@ El objetivo del repositorio es facilitar encontrar y acceder a espacios mayormen
 | Café                | [![][ico-telegram]](https://t.me/cafeparaguay) | |
 | Ciberseguro | [![][ico-telegram]](https://t.me/pyciberseguro) | |
 | Consultas tributarias | [![][ico-telegram]](https://t.me/ConsultasTributarias) | |
-| CoompuMARKET.py  | [![][ico-telegram]](https://t.me/joinchat/HG9AlB5o_AE3NTBh) | Compra/venta de artículos de tecnología |
+| Consultas #Sifen #ekuatia #facturacion electrónica | [![][ico-telegram]](https://t.me/ekuatia_sifen) | |
+| CompuMARKET.py  | [![][ico-telegram]](https://t.me/joinchat/HG9AlB5o_AE3NTBh) | Compra/venta de artículos de tecnología |
 | Desarrolladores CDE Alto Paraná | [![][ico-telegram]](https://t.me/cdedevteam) | |
 | Docker | [![][ico-telegram]](https://t.me/dockerparaguay) | |
 | Finanzas | [![][ico-telegram]](https://t.me/finanzaspy) | |
 | FLISOL Paraguay | [![][ico-telegram]](https://t.me/flisolpy) | Festival Latinoamericano de Instalación de Software Libre |
 | Ofertas de trabajo | [![][ico-telegram]](https://t.me/trabajoTIPY) | |
-| Ofertas Laboras | [![][ico-telegram]](https://t.me/OfertasLaboralespy) | |
+| Ofertas Laborales | [![][ico-telegram]](https://t.me/OfertasLaboralespy) | |
 | OpenShift Users Group PY | [![][ico-telegram]](https://t.me/openshiftpy) | |
 | PowerBI & Analytics | [![][ico-telegram]](https://t.me/pbi_analytics_py) | |
 | Promociones con tarjetas de crédito | [![][ico-telegram]](https://t.me/joinchat/vVwfBXzpRkg4NWNh) | |
